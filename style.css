@@ -1,0 +1,16 @@
+li:hover {
+  cursor: pointer;
+}
+
+.wrapper {
+  display: flex;
+}
+
+.changeClass {
+  margin-left: 10px;
+}
+
+.done {
+	text-decoration: line-through;
+}
+
